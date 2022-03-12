@@ -98,4 +98,5 @@ function custom_repeatable_meta_box_save($post_id) {
 }
 
 
-Note 
+Note Please check Stackflow 
+https://stackoverflow.com/questions/44653777/creating-a-repeater-fields-without-a-plugin
